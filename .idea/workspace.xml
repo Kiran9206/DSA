@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0e39844-ad98-45e1-9e2a-c860cce37fd4" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_Subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_all_Parentheses_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Kth_Symbol_Easy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Letter_Phone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Kth_Symbol_Hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_All_Maze_Paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_paths_in_Staircase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Shortest_path_in_a_Binary_Maze_with_Hurdles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Subset_Sum_equal_to_K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/All_Indices_Of_Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/Check_Palindrome_using_Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/Fast_Power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/First_Index_using_Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/Is_magic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/Last_Index_using_Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/Max_of_an_Array_Using_Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/Print_Array_using_Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Recursion_2/Tower_of_Hanoi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_Subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_Subsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_all_Parentheses_II.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_all_Parentheses_II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Kth_Symbol_Easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Kth_Symbol_Easy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Letter_Phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Letter_Phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Permutations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +52,13 @@
   "keyToString": {
     "Python.Fast_Power.executor": "Run",
     "Python.First_Index_using_Recursion.executor": "Run",
+    "Python.Generate_Subsets.executor": "Run",
+    "Python.Generate_all_Parentheses_II.executor": "Run",
     "Python.Is_magic.executor": "Run",
+    "Python.Kth_Symbol_Easy.executor": "Run",
+    "Python.Letter_Phone.executor": "Run",
     "Python.Max_of_an_Array_Using_Recursion.executor": "Run",
+    "Python.Permutations.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
