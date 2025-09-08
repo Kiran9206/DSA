@@ -6,11 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="c0e39844-ad98-45e1-9e2a-c860cce37fd4" name="Changes" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_Subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_Subsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_all_Parentheses_II.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Generate_all_Parentheses_II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Kth_Symbol_Easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Kth_Symbol_Easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Letter_Phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Letter_Phone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_1/Permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Kth_Symbol_Hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Kth_Symbol_Hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_All_Maze_Paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_All_Maze_Paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_paths_in_Staircase.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_paths_in_Staircase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Shortest_path_in_a_Binary_Maze_with_Hurdles.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Shortest_path_in_a_Binary_Maze_with_Hurdles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Subset_Sum_equal_to_K.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Subset_Sum_equal_to_K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Fibonacci_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Fibonacci_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Max_Product_Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Max_Product_Subarray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +59,75 @@
     "Python.Is_magic.executor": "Run",
     "Python.Kth_Symbol_Easy.executor": "Run",
     "Python.Letter_Phone.executor": "Run",
+    "Python.Max_Product_Subarray.executor": "Run",
     "Python.Max_of_an_Array_Using_Recursion.executor": "Run",
     "Python.Permutations.executor": "Run",
+    "Python.Print_All_Maze_Paths.executor": "Run",
+    "Python.Print_paths_in_Staircase.executor": "Run",
+    "Python.Shortest_path_in_a_Binary_Maze_with_Hurdles.executor": "Run",
+    "Python.Subset_Sum_equal_to_K.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kirankumar.r/Documents/Personal/scaler/PythonProject/DAS"
+    "last_opened_file_path": "C:/Users/kirankumar.r/Documents/Personal/scaler/LLD1"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kirankumar.r\Documents\Personal\scaler\PythonProject\DAS" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Shortest_path_in_a_Binary_Maze_with_Hurdles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Backtracking_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Shortest_path_in_a_Binary_Maze_with_Hurdles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Subset_Sum_equal_to_K" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Backtracking_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Subset_Sum_equal_to_K.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Subset_Sum_equal_to_K" />
+        <item itemvalue="Python.Shortest_path_in_a_Binary_Maze_with_Hurdles" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -102,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755782198649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1756322358420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756322358420</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1756322502023</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756322502023</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
