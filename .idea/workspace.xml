@@ -5,14 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0e39844-ad98-45e1-9e2a-c860cce37fd4" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Common_Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Count_Subarray_Zero_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Count_distinct_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Count_unique_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/First_Repeating_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Frequency_of_element_query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Sub_array_with_0_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Check_Pair_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Count_Pair_Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Count_Pair_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Distinct_Numbers_in_Window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Longest_Subarray_Zero_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Subarray_Sum_Equals_K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Subarray_with_given_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Colorful_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Count_Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Longest_Subarray_Zero_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Sort_Array_in_given_Order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Kth_Symbol_Hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Kth_Symbol_Hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_All_Maze_Paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_All_Maze_Paths.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_paths_in_Staircase.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Print_paths_in_Staircase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Shortest_path_in_a_Binary_Maze_with_Hurdles.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Shortest_path_in_a_Binary_Maze_with_Hurdles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Subset_Sum_equal_to_K.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Subset_Sum_equal_to_K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Fibonacci_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Fibonacci_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Arrays_1_One_Dimensional/Max_Sum_Contiguous_Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Arrays_1_One_Dimensional/Max_Sum_Contiguous_Subarray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Max_Product_Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Max_Product_Subarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Maximum_Sum_Value.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Maximum_Sum_Value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Minimum_Number_of_Squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Minimum_Number_of_Squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Stairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_1_One_Dimensional/Stairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Intersecting_Chords_in_a_Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Intersecting_Chords_in_a_Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Max_Sum_Without_Adjacent_Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Max_Sum_Without_Adjacent_Elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Min_Sum_Path_in_Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Min_Sum_Path_in_Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Min_Sum_Path_in_Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Min_Sum_Path_in_Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Unique_Binary_Search_Trees_II.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Unique_Binary_Search_Trees_II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Unique_Paths_in_a_Grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_DP_2_Two_Dimensional/Unique_Paths_in_a_Grid.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,24 +74,42 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Count_unique_elements.test_frequency.executor": "Run",
+    "Python tests.Python tests for Count_unique_elements.test_frequency_opt.executor": "Run",
+    "Python tests.Python tests in Count_unique_elements.py.executor": "Run",
+    "Python.Check_Pair_Sum.executor": "Run",
+    "Python.Common_Elements.executor": "Run",
+    "Python.Count_Subarray_Zero_Sum.executor": "Run",
+    "Python.Count_distinct_elements.executor": "Run",
+    "Python.Count_unique_elements.executor": "Run",
     "Python.Fast_Power.executor": "Run",
     "Python.First_Index_using_Recursion.executor": "Run",
+    "Python.First_Repeating_element.executor": "Run",
+    "Python.Frequency_of_element_query.executor": "Run",
     "Python.Generate_Subsets.executor": "Run",
     "Python.Generate_all_Parentheses_II.executor": "Run",
     "Python.Is_magic.executor": "Run",
     "Python.Kth_Symbol_Easy.executor": "Run",
     "Python.Letter_Phone.executor": "Run",
     "Python.Max_Product_Subarray.executor": "Run",
+    "Python.Max_Sum_Without_Adjacent_Elements.executor": "Run",
     "Python.Max_of_an_Array_Using_Recursion.executor": "Run",
+    "Python.Min_Sum_Path_in_Matrix.executor": "Run",
+    "Python.Min_Sum_Path_in_Triangle.executor": "Run",
+    "Python.Minimum_Number_of_Squares.executor": "Run",
     "Python.Permutations.executor": "Run",
     "Python.Print_All_Maze_Paths.executor": "Run",
     "Python.Print_paths_in_Staircase.executor": "Run",
     "Python.Shortest_path_in_a_Binary_Maze_with_Hurdles.executor": "Run",
+    "Python.Stairs.executor": "Run",
     "Python.Subset_Sum_equal_to_K.executor": "Run",
+    "Python.Unique_Binary_Search_Trees_II.executor": "Run",
+    "Python.Unique_Paths_in_a_Grid.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kirankumar.r/Documents/Personal/scaler/LLD1"
+    "last_opened_file_path": "C:/Users/kirankumar.r/Documents/Personal/scaler/LLD1",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -77,8 +117,8 @@
       <recent name="C:\Users\kirankumar.r\Documents\Personal\scaler\PythonProject\DAS" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Shortest_path_in_a_Binary_Maze_with_Hurdles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Check_Pair_Sum">
+    <configuration name="Check_Pair_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Backtracking_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Shortest_path_in_a_Binary_Maze_with_Hurdles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Check_Pair_Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Subset_Sum_equal_to_K" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Count_unique_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,23 +149,71 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Backtracking_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Backtracking_2/Subset_Sum_equal_to_K.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Count_unique_elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Count_unique_elements.test_frequency" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Count_unique_elements.test_frequency&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Count_unique_elements.test_frequency_opt" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Count_unique_elements.test_frequency_opt&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Count_unique_elements.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Count_unique_elements.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Subset_Sum_equal_to_K" />
-        <item itemvalue="Python.Shortest_path_in_a_Binary_Maze_with_Hurdles" />
+        <item itemvalue="Python.Check_Pair_Sum" />
+        <item itemvalue="Python tests.Python tests for Count_unique_elements.test_frequency_opt" />
+        <item itemvalue="Python tests.Python tests for Count_unique_elements.test_frequency" />
+        <item itemvalue="Python.Count_unique_elements" />
+        <item itemvalue="Python tests.Python tests in Count_unique_elements.py" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756322502023</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1757318305340</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757318305340</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
