@@ -68,14 +68,13 @@ def count_subarray_zero_sum_2(A: list) -> int:
     hash_map = {}
     curr_sum = 0
     for item in A:
-        curr_sum += item
+        curr_sum+=item
         if curr_sum == 0:
-            count +=1
+            count+=1
         if curr_sum in hash_map:
             count += hash_map[curr_sum]
-            hash_map[curr_sum] += 1
-        else:
-            hash_map[curr_sum] = 1
+        hash_map[curr_sum] = hash_map.get(curr_sum, 0) + 1
+
     return count
 
 
@@ -86,6 +85,7 @@ def count_subarray_zero_sum_2(A: list) -> int:
 
 
 A = [1, -1, -2, 2]
+A = [1,-2,0,2]
 print(count_subarray_zero_sum(A))
 print(count_subarray_zero_sum_1(A))
 print(count_subarray_zero_sum_2(A))
