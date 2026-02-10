@@ -62,3 +62,40 @@ if __name__ == "__main__":
     # B = [9, 10, 7, 10, 9, 1, 5, 1, 5]
     print(checkPairSum(A,B))
     print(checkPairSum1(A,B))
+
+
+
+thriplets
+
+
+
+
+def brute(A:int, B:int)-> list[int]:
+	for i in range(len(B)):
+		for j in range(i+1, len(B)):
+			for k in range(j+1, len(B)):
+				if (i+j+k) == A:
+					retutn [i,j,k]
+
+
+optimization using hashset
+
+def optimasation(A:int, B:list)-> list[int]):
+	for idx,item in enumerate(B):
+		seen = set()
+		target = A - item
+		
+		for idx_j in range(idx+1, len(B)):
+			if target - B[idx_j] in seen:
+				return [item, B[idx_j], (target - B[idx_j])]
+			else:
+				seen.add(target - B[idx_j])
+	retun [0]
+
+		
+		
+		 
+
+
+
+

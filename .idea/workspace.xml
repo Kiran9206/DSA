@@ -5,14 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0e39844-ad98-45e1-9e2a-c860cce37fd4" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Graphs_1_Introduction_DFS_&amp;_Cycle_Detection/Cycle_in_Directed_Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Graphs_1_Introduction_DFS_&amp;_Cycle_Detection/First_Depth_First_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Graphs_1_Introduction_DFS_&amp;_Cycle_Detection/Maximum_Depth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Graphs_1_Introduction_DFS_&amp;_Cycle_Detection/Path_in_Directed_Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Graphs_1_Introduction_DFS_&amp;_Cycle_Detection/Store_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Hashing_internal_imp_chaining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Hashing_internal_imp_probing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_1_Binary_Search_on_Array/Find_a_peak_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_1_Binary_Search_on_Array/Matrix_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_1_Binary_Search_on_Array/Maximum_height_of_staircase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_1_Binary_Search_on_Array/Minimum_Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_1_Binary_Search_on_Array/Search_for_a_Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_1_Binary_Search_on_Array/Single_Element_in_Sorted_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_1_Binary_Search_on_Array/Sorted_Insert_Position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_1_Binary_Search_on_Array/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_2_Binary_Search_Problems/ADD_OR_NOT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_2_Binary_Search_Problems/Ath_Magical_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_2_Binary_Search_Problems/Find_Smallest_Again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_2_Binary_Search_Problems/Matrix_Median.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_2_Binary_Search_Problems/Rotated_Sorted_Array_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_2_Binary_Search_Problems/Square_Root_of_Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_3_Binary_Search_on_Answer/Aggressive_cows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_3_Binary_Search_on_Answer/Allocate_Books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_3_Binary_Search_on_Answer/Painters_Partition_Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Searching_3_Binary_Search_on_Answer/Special_Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_1_Count_Sort_&amp;_Merge_Sort/Count_Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_1_Count_Sort_&amp;_Merge_Sort/Inversion_count_in_an_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_1_Count_Sort_&amp;_Merge_Sort/Max_Chunks_To_Make_Sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_1_Count_Sort_&amp;_Merge_Sort/Merge_Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_1_Count_Sort_&amp;_Merge_Sort/Merge_Two_Sorted_Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_1_Count_Sort_&amp;_Merge_Sort/Smallest_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_1_Count_Sort_&amp;_Merge_Sort/Sort_by_Color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_1_Count_Sort_&amp;_Merge_Sort/Sort_subarray_with_left_and_right_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/B_Closest_Points_to_Origin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/Factors_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/Largest_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/Partition_Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/Quick_Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/Sort_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/Sort_by_Color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/Tens_Digit_Sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Sorting_2_Quick_Sort_&amp;_Comparator_Problems/Wave_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Equal_Tree_Partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Inorder_Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Path_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Postorder_Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Preorder_Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Sum_binary_tree_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/trees.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Count_Subarray_Zero_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_1_Introduction/Count_Subarray_Zero_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Count_Pair_Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Count_Pair_Difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Count_Pair_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Count_Pair_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Distinct_Numbers_in_Window.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Distinct_Numbers_in_Window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Longest_Subarray_Zero_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Longest_Subarray_Zero_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Subarray_Sum_Equals_K.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Subarray_Sum_Equals_K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Subarray_with_given_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Subarray_with_given_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Check_Pair_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Check_Pair_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Colorful_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Colorful_Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Count_Subarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Count_Subarrays.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,59 +95,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for Count_unique_elements.test_frequency.executor": "Run",
-    "Python tests.Python tests for Count_unique_elements.test_frequency_opt.executor": "Run",
-    "Python tests.Python tests in Count_unique_elements.py.executor": "Run",
-    "Python.Check_Pair_Sum.executor": "Run",
-    "Python.Common_Elements.executor": "Run",
-    "Python.Count_Pair_Difference.executor": "Run",
-    "Python.Count_Pair_Sum.executor": "Run",
-    "Python.Count_Subarray_Zero_Sum.executor": "Run",
-    "Python.Count_distinct_elements.executor": "Run",
-    "Python.Count_unique_elements.executor": "Run",
-    "Python.Distinct_Numbers_in_Window.executor": "Run",
-    "Python.Fast_Power.executor": "Run",
-    "Python.First_Index_using_Recursion.executor": "Run",
-    "Python.First_Repeating_element.executor": "Run",
-    "Python.Frequency_of_element_query.executor": "Run",
-    "Python.Generate_Subsets.executor": "Run",
-    "Python.Generate_all_Parentheses_II.executor": "Run",
-    "Python.Is_magic.executor": "Run",
-    "Python.Kth_Symbol_Easy.executor": "Run",
-    "Python.Letter_Phone.executor": "Run",
-    "Python.Longest_Subarray_Zero_Sum.executor": "Run",
-    "Python.Max_Product_Subarray.executor": "Run",
-    "Python.Max_Sum_Without_Adjacent_Elements.executor": "Run",
-    "Python.Max_of_an_Array_Using_Recursion.executor": "Run",
-    "Python.Min_Sum_Path_in_Matrix.executor": "Run",
-    "Python.Min_Sum_Path_in_Triangle.executor": "Run",
-    "Python.Minimum_Number_of_Squares.executor": "Run",
-    "Python.Permutations.executor": "Run",
-    "Python.Print_All_Maze_Paths.executor": "Run",
-    "Python.Print_paths_in_Staircase.executor": "Run",
-    "Python.Shortest_path_in_a_Binary_Maze_with_Hurdles.executor": "Run",
-    "Python.Stairs.executor": "Run",
-    "Python.Subarray_Sum_Equals_K.executor": "Run",
-    "Python.Subarray_with_given_sum.executor": "Run",
-    "Python.Subset_Sum_equal_to_K.executor": "Run",
-    "Python.Unique_Binary_Search_Trees_II.executor": "Run",
-    "Python.Unique_Paths_in_a_Grid.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kirankumar.r/Documents/Personal/scaler/LLD1",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Count_unique_elements.test_frequency.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Count_unique_elements.test_frequency_opt.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Count_unique_elements.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Check_Pair_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Colorful_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Common_Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Pair_Difference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Pair_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Subarray_Zero_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Subarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_distinct_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_unique_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Distinct_Numbers_in_Window.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fast_Power.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find_a_peak_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First_Depth_First_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First_Index_using_Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First_Repeating_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Frequency_of_element_query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Generate_Subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Generate_all_Parentheses_II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Is_magic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kth_Symbol_Easy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Letter_Phone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Longest_Subarray_Zero_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matrix_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max_Product_Subarray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max_Sum_Without_Adjacent_Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max_of_an_Array_Using_Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Min_Sum_Path_in_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Min_Sum_Path_in_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Minimum_Difference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Minimum_Number_of_Squares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Print_All_Maze_Paths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Print_paths_in_Staircase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Shortest_path_in_a_Binary_Maze_with_Hurdles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subarray_Sum_Equals_K.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subarray_with_given_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subset_Sum_equal_to_K.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unique_Binary_Search_Trees_II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unique_Paths_in_a_Grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.resume.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trees.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kirankumar.r/Documents/Personal/scaler/Backend Project/app_1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kirankumar.r\Documents\Personal\scaler\PythonProject\DAS" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kirankumar.r\Documents\Personal\scaler\PythonProject\DAS" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Subarray_with_given_sum">
-    <configuration name="Count_Pair_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Colorful_Number">
+    <configuration name="Colorful_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Count_Pair_Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Colorful_Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Distinct_Numbers_in_Window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Count_Subarrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Distinct_Numbers_in_Window.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Hashing_3_Internal_Implementation_&amp;_Problems/Count_Subarrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Colorful_Number" />
+        <item itemvalue="Python.Count_Subarrays" />
         <item itemvalue="Python.Subarray_with_given_sum" />
         <item itemvalue="Python.Subarray_Sum_Equals_K" />
         <item itemvalue="Python.Longest_Subarray_Zero_Sum" />
-        <item itemvalue="Python.Distinct_Numbers_in_Window" />
-        <item itemvalue="Python.Count_Pair_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759478462516</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1760012951135</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760012951135</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
