@@ -5,15 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0e39844-ad98-45e1-9e2a-c860cce37fd4" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_2_Views_&amp;_Types/Balanced_Binary_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_2_Views_&amp;_Types/Binary_Tree_From_Inorder_And_Postorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_2_Views_&amp;_Types/Binary_Tree_From_Inorder_And_Preorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_2_Views_&amp;_Types/Deserialize_Binary_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_2_Views_&amp;_Types/Right_View_of_Binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_2_Views_&amp;_Types/Serialize_Binary_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/daily_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/BST_nodes_in_a_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Check_for_BST_with_One_Child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Delete_a_node_in_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Search_in_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Sorted_Array_To_Balanced_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Two_Sum_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Valid_Binary_Search_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Common_Nodes_in_Two_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Distance_between_Nodes_of_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Kth_Smallest_Element_In_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/LCA_in_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Least_Common_Ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Morris_Inorder_Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Recover_Binary_Search_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Diameter_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Identical_Binary_Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Invert_the_Binary_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Next_Pointer_Binary_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Top_View_of_Binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Vertical_Order_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_2_Views_&amp;_Types/Level_Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_2_Views_&amp;_Types/Level_Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Equal_Tree_Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Equal_Tree_Partition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Inorder_Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Inorder_Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Path_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Path_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Sum_binary_tree_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Sum_binary_tree_or_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/daily_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/daily_tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kiran_Kumar_Backend_Developer_Resume.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +78,7 @@
     "Python tests.Python tests for Count_unique_elements.test_frequency.executor": "Run",
     "Python tests.Python tests for Count_unique_elements.test_frequency_opt.executor": "Run",
     "Python tests.Python tests in Count_unique_elements.py.executor": "Run",
+    "Python.BST_nodes_in_a_range.executor": "Run",
     "Python.Binary_Tree_From_Inorder_And_Preorder.executor": "Run",
     "Python.Check_Pair_Sum.executor": "Run",
     "Python.Colorful_Number.executor": "Run",
@@ -87,6 +110,7 @@
     "Python.Min_Sum_Path_in_Triangle.executor": "Run",
     "Python.Minimum_Difference.executor": "Run",
     "Python.Minimum_Number_of_Squares.executor": "Run",
+    "Python.Next_Pointer_Binary_Tree.executor": "Run",
     "Python.Permutations.executor": "Run",
     "Python.Print_All_Maze_Paths.executor": "Run",
     "Python.Print_paths_in_Staircase.executor": "Run",
@@ -115,7 +139,7 @@
       <recent name="C:\Users\kirankumar.r\Documents\Personal\scaler\PythonProject\DAS" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Next_Pointer_Binary_Tree">
     <configuration name="Colorful_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -160,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Longest_Subarray_Zero_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Next_Pointer_Binary_Tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Hashing_2_Problems/Longest_Subarray_Zero_Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Next_Pointer_Binary_Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Next_Pointer_Binary_Tree" />
         <item itemvalue="Python.Colorful_Number" />
         <item itemvalue="Python.Count_Subarrays" />
         <item itemvalue="Python.Subarray_with_given_sum" />
         <item itemvalue="Python.Subarray_Sum_Equals_K" />
-        <item itemvalue="Python.Longest_Subarray_Zero_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +334,17 @@
     </task>
     <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />

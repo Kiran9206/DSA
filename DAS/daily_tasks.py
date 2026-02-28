@@ -56,3 +56,14 @@ print(dict_data)
 l = ['a','b',1, 2,3,4]
 # print(type(bool,l))
 print(l.index('a'))
+
+nums = [10,15,20,25,30]
+print([num * 2 for num in nums if num % 5 == 0])
+print(["even" if num % 2 == 0 else "odd" for num in nums])
+matrix = [[1,2],[3,4],[5,6]]
+print([num for row in matrix for num in row])
+keys = ['name', 'age', 'city']
+values = ['Alice', 30, 'New York']
+print({keys[i]: values[i] for i in range(len(keys))})
+data = {'a':5, 'b':2, 'c':8}
+print({K: V for K, V in data.items() if V > 5})

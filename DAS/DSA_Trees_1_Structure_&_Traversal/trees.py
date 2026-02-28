@@ -1,3 +1,110 @@
+'''
+🌳 1️⃣ DFS Traversal Pattern (Basic Traversals)
+These are pure traversal logic problems.
+Inorder_Traversal.py
+Preorder_Traversal.py
+Postorder_Traversal.py
+Morris_Inorder_Traversal.py
+👉 Pattern: DFS traversal
+👉 Core idea: Visit nodes in specific order
+
+🌊 2️⃣ BFS / Level Order Pattern
+These use queue-based traversal.
+Level_Order.py
+Right_View_of_Binary_tree.py
+Top_View_of_Binary_tree.py
+Vertical_Order_traversal.py
+👉 Pattern: BFS + level tracking
+👉 Core idea: Process level by level
+
+🌿 3️⃣ Height-Based / Bottom-Up Pattern (Postorder Thinking)
+These compute something from children first.
+Balanced_Binary_Tree.py
+Diameter_of_binary_tree.py
+Sum_binary_tree_or_not.py
+Binary_Tree_Size.py
+👉 Pattern: Postorder recursion
+👉 Core idea: Compute left & right → combine
+
+🛤 4️⃣ Path-Based Pattern (Carry State Downward)
+These depend on root-to-leaf logic.
+Path_Sum.py
+Equal_Tree_Partition.py
+👉 Pattern: Carry sum/state during recursion
+
+🌲 5️⃣ Tree Construction Pattern
+Build tree from traversal arrays.
+Binary_Tree_From_Inorder_And_Postorder.py
+Binary_Tree_From_Inorder_And_Preorder.py
+Sorted_Array_To_Balanced_BST.py
+👉 Pattern: Root splitting
+
+🌳 6️⃣ BST-Specific Pattern
+These use BST property (left < root < right).
+Search_in_BST.py
+Delete_a_node_in_BST.py
+Valid_Binary_Search_Tree.py
+BST_nodes_in_a_range.py
+Two_Sum_BST.py
+Check_for_BST_with_One_Child.py
+👉 Pattern: Use BST ordering property
+
+🧠 7️⃣ LCA Pattern
+Ancestor based logic.
+LCA_in_BST.py
+Least_Common_Ancestor.py
+Common_Nodes_in_Two_BST.py
+Distance_between_Nodes_of_BST.py
+👉 Pattern: Return node when both sides match
+
+⚙ 8️⃣ Tree DP / Advanced Recursion Pattern
+These return multiple states or require structured recursion.
+Kth_Smallest_Element_In_BST.py
+Recover_Binary_Search_Tree.py
+Deserialize_Binary_Tree.py
+Serialize_Binary_Tree.py
+Next_Pointer_Binary_Tree.py
+Identical_Binary_Trees.py
+Invert_the_Binary_Tree.py
+👉 Pattern: Advanced recursion or state returning
+
+📊 Final Count (Approx)
+DFS: 4
+BFS: 4
+Height-based: 4
+Path-based: 2
+Construction: 3
+BST-specific: 6
+LCA: 4
+Advanced / DP: 6
+
+Total ≈ 33 problems
+But patterns = 8 only.
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ---------------------------------------------------------------------------------------------------------
 from typing import Optional, List, final
 
 
@@ -159,3 +266,4 @@ print(inorder_traversal(root))
 
 print(inorder_traversal(bt))
 print(inorder_traversal_iterative(bt))
+# ----------------------------------------------------------------------------------------------
