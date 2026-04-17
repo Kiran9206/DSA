@@ -38,3 +38,32 @@ Explanation 1:
 Explanation 2:
  The Inorder Traversal of the given tree is [6, 1, 3, 2].
 '''
+
+
+def morris_inorder(A):
+    ans  = []
+    if A is None:
+        return ans
+
+    current = A
+
+    while current:
+
+        if current.left is None:
+            ans.append(current.val)
+            current = current.right
+
+        else:
+            predecessor = current.left
+            while predecessor.right and predecessor.right != current:
+                predecessor = predecessor.right
+
+            if predecessor.right is None:
+                predecessor.right = current
+                current = current.left
+
+            else:
+                ans.append(current.val)
+                predecessor.right = None
+                current = current.right
+    return ans

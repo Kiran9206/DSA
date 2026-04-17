@@ -47,3 +47,39 @@ Explanation 1:
 Explanation 2:
  The LCA of node 7 and 1 is the node 6.
 '''
+
+# brute force: dfs
+
+def lca_bst(A,B,C):
+
+    if A is None :
+        return None
+
+    if A.val == B or A.val == C:
+        return A.val
+
+    left = lca_bst(A.left,B,C)
+    right = lca_bst(A.right, B, C)
+
+    if left and right:
+        return A
+
+    return left if left else right
+
+
+def lca_bst_optimised(A,B,C):
+
+    if A is None:
+        return None
+
+    current = A
+    while current:
+
+        if B > current.val and C > current.val:
+            current = current.right
+
+        elif B < current.val and C < current.val:
+            current = current.left
+
+        else: return current.val
+

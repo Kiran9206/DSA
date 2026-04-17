@@ -45,3 +45,34 @@ Explanation 1:
 Explanation 2:
  Path between 2 and 6 is: 2 -> 6. Distance will be 1
 '''
+
+def findlca(A,B,C):
+
+    current = A
+    while current:
+        if current.val > B and current.val > C:
+            current = current.left
+        elif current.val < B and current.val < C:
+            current = current.right
+        else:
+            return current
+
+
+def find_distance(root,target):
+    distance = 0
+    while root.val != target:
+        if root.val > target:
+            root = root.left
+        else:
+            root = root.right
+        distance+=1
+    return distance
+
+
+
+def distance(A,B,C):
+    lca = findlca(A,B,C)
+    d_B = find_distance(lca,B)
+    d_c = find_distance(lca,C)
+    return d_B + d_c
+

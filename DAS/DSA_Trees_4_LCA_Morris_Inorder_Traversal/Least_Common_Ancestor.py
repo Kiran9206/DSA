@@ -43,3 +43,39 @@ Explanation 1:
 Explanation 2:
  LCA is 2.
 '''
+
+
+
+def lca_util(A,B,C):
+
+    if A is None:
+        return None
+
+    if A.val == B or A.val == C:
+        return A
+
+    left_lca = lca_util(A.left, B, C)
+    right_lca = lca_util(A.right, B, C)
+
+    if left_lca and right_lca:
+        return A
+
+    return left_lca if left_lca else right_lca
+
+def exists(A, val):
+
+    if A is None:
+        return False
+    if A.val == val:
+        return True
+
+    return exists(A.left, val) or exists(A.right, val)
+
+def lca(A,B,C):
+    node = lca_util(A,B,C)
+    if node and exists(A,B) and exists(A,C):
+        return node.val
+    else: return -1
+
+
+

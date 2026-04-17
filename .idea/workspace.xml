@@ -5,37 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0e39844-ad98-45e1-9e2a-c860cce37fd4" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/BST_nodes_in_a_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Check_for_BST_with_One_Child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Delete_a_node_in_BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Search_in_BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Sorted_Array_To_Balanced_BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Two_Sum_BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_3_BST/Valid_Binary_Search_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Common_Nodes_in_Two_BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Distance_between_Nodes_of_BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Kth_Smallest_Element_In_BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/LCA_in_BST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Least_Common_Ancestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Morris_Inorder_Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Recover_Binary_Search_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Diameter_of_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Identical_Binary_Trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Invert_the_Binary_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Next_Pointer_Binary_Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Top_View_of_Binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/DSA_Trees_5_Problems_on_Trees/Vertical_Order_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAS/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Basic_Problems/Copy_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Basic_Problems/Delete_in_Linked_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Basic_Problems/Insert_in_Linked_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Basic_Problems/K_reverse_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Basic_Problems/Remove_Duplicates_from_Sorted_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Basic_Problems/Remove_Nth_Node_from_List_End.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Basic_Problems/Reverse_Link_List_II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Basic_Problems/Reverse_Linked_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Problems_&amp;_Doubly_Linked_List/Flatten_a_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Problems_&amp;_Doubly_Linked_List/Intersection_of_Linked_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Problems_&amp;_Doubly_Linked_List/LRU_Cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Problems_&amp;_Doubly_Linked_List/Longest_Palindromic_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Problems_&amp;_Doubly_Linked_List/Palindrome_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Problems_&amp;_Doubly_Linked_List/Partition_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Sorting_and_Detecting_Loop/Add_Two_Numbers_as_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Sorting_and_Detecting_Loop/Merge_Two_Sorted_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Sorting_and_Detecting_Loop/Middle_element_of_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Sorting_and_Detecting_Loop/Remove_Loop_from_Linked_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Sorting_and_Detecting_Loop/Reorder_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Sorting_and_Detecting_Loop/Sort_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAS/DSA_Linked_List_Sorting_and_Detecting_Loop/Swap_List_Nodes_in_pairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Equal_Tree_Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Equal_Tree_Partition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Inorder_Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Inorder_Traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Path_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Path_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Sum_binary_tree_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/Sum_binary_tree_or_not.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_1_Structure_&amp;_Traversal/trees.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAS/daily_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/daily_tasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kiran_Kumar_Backend_Developer_Resume.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Common_Nodes_in_Two_BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Common_Nodes_in_Two_BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Distance_between_Nodes_of_BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Distance_between_Nodes_of_BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Kth_Smallest_Element_In_BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Kth_Smallest_Element_In_BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/LCA_in_BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/LCA_in_BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Least_Common_Ancestor.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Least_Common_Ancestor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Morris_Inorder_Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/DSA_Trees_4_LCA_Morris_Inorder_Traversal/Morris_Inorder_Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAS/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAS/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,64 +71,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for Count_unique_elements.test_frequency.executor": "Run",
-    "Python tests.Python tests for Count_unique_elements.test_frequency_opt.executor": "Run",
-    "Python tests.Python tests in Count_unique_elements.py.executor": "Run",
-    "Python.BST_nodes_in_a_range.executor": "Run",
-    "Python.Binary_Tree_From_Inorder_And_Preorder.executor": "Run",
-    "Python.Check_Pair_Sum.executor": "Run",
-    "Python.Colorful_Number.executor": "Run",
-    "Python.Common_Elements.executor": "Run",
-    "Python.Count_Pair_Difference.executor": "Run",
-    "Python.Count_Pair_Sum.executor": "Run",
-    "Python.Count_Subarray_Zero_Sum.executor": "Run",
-    "Python.Count_Subarrays.executor": "Run",
-    "Python.Count_distinct_elements.executor": "Run",
-    "Python.Count_unique_elements.executor": "Run",
-    "Python.Distinct_Numbers_in_Window.executor": "Run",
-    "Python.Fast_Power.executor": "Run",
-    "Python.Find_a_peak_element.executor": "Run",
-    "Python.First_Depth_First_Search.executor": "Run",
-    "Python.First_Index_using_Recursion.executor": "Run",
-    "Python.First_Repeating_element.executor": "Run",
-    "Python.Frequency_of_element_query.executor": "Run",
-    "Python.Generate_Subsets.executor": "Run",
-    "Python.Generate_all_Parentheses_II.executor": "Run",
-    "Python.Is_magic.executor": "Run",
-    "Python.Kth_Symbol_Easy.executor": "Run",
-    "Python.Letter_Phone.executor": "Run",
-    "Python.Longest_Subarray_Zero_Sum.executor": "Run",
-    "Python.Matrix_Search.executor": "Run",
-    "Python.Max_Product_Subarray.executor": "Run",
-    "Python.Max_Sum_Without_Adjacent_Elements.executor": "Run",
-    "Python.Max_of_an_Array_Using_Recursion.executor": "Run",
-    "Python.Min_Sum_Path_in_Matrix.executor": "Run",
-    "Python.Min_Sum_Path_in_Triangle.executor": "Run",
-    "Python.Minimum_Difference.executor": "Run",
-    "Python.Minimum_Number_of_Squares.executor": "Run",
-    "Python.Next_Pointer_Binary_Tree.executor": "Run",
-    "Python.Permutations.executor": "Run",
-    "Python.Print_All_Maze_Paths.executor": "Run",
-    "Python.Print_paths_in_Staircase.executor": "Run",
-    "Python.Shortest_path_in_a_Binary_Maze_with_Hurdles.executor": "Run",
-    "Python.Stairs.executor": "Run",
-    "Python.Subarray_Sum_Equals_K.executor": "Run",
-    "Python.Subarray_with_given_sum.executor": "Run",
-    "Python.Subset_Sum_equal_to_K.executor": "Run",
-    "Python.Unique_Binary_Search_Trees_II.executor": "Run",
-    "Python.Unique_Paths_in_a_Grid.executor": "Run",
-    "Python.daily_tasks.executor": "Run",
-    "Python.resume.executor": "Run",
-    "Python.trees.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kirankumar.r/Documents/Personal/scaler/Backend Project/app_1",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Count_unique_elements.test_frequency.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Count_unique_elements.test_frequency_opt.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Count_unique_elements.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BST_nodes_in_a_range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Binary_Tree_From_Inorder_And_Preorder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Check_Pair_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Colorful_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Common_Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Pair_Difference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Pair_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Subarray_Zero_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_Subarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_distinct_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_unique_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Distinct_Numbers_in_Window.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fast_Power.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find_a_peak_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First_Depth_First_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First_Index_using_Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First_Repeating_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Frequency_of_element_query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Generate_Subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Generate_all_Parentheses_II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Is_magic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kth_Symbol_Easy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Letter_Phone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Longest_Subarray_Zero_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matrix_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max_Product_Subarray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max_Sum_Without_Adjacent_Elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max_of_an_Array_Using_Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Min_Sum_Path_in_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Min_Sum_Path_in_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Minimum_Difference.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Minimum_Number_of_Squares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Next_Pointer_Binary_Tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Print_All_Maze_Paths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Print_paths_in_Staircase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Shortest_path_in_a_Binary_Maze_with_Hurdles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subarray_Sum_Equals_K.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subarray_with_given_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subset_Sum_equal_to_K.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unique_Binary_Search_Trees_II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unique_Paths_in_a_Grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.daily_tasks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.resume.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trees.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kirankumar.r/Documents/Personal/scaler/Backend Project/app_1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kirankumar.r\Documents\Personal\scaler\PythonProject\DAS" />

@@ -38,3 +38,64 @@ Explanation 1:
 Explanation 2:
 1st element is 1.
 '''
+from http.cookiejar import cut_port_re
+
+
+# brute force
+
+def in_dfs(A,B):
+    if A is None:
+        return
+    return in_dfs(A.left, B) + [ A.val ] + in_dfs(A.right, B)
+
+# counter approach
+counter = 0
+def counter_dfs(A, B):
+    global counter
+    if A is None:
+        return
+
+    counter_dfs(A.left, B)
+    counter+=1
+    if counter == B:
+        return A.val
+    counter_dfs(A.right, B)
+
+def kth_smallest(A, B):
+    in_order = in_dfs(A, B)
+    return in_order[B - 1]
+
+
+def optimized_kth_smallest(A, B):
+
+    if A is None:
+        return -1
+
+    current = A
+    while current:
+        if current.left is None:
+            B -= 1
+            if B == 0:
+                return current.val
+            current = current.right
+        else:
+            predecessor = current.left
+            while predecessor.right and predecessor.right != current:
+                predecessor = predecessor.right
+
+            if predecessor.right is current:
+                predecessor.right = None
+                B-=1
+                if B == 0:
+                    return current.val
+                current = current.right
+            else:
+                predecessor.right = current
+                current = current.left
+    return -1
+
+
+
+
+
+
